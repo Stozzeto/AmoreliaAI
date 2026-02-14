@@ -640,6 +640,8 @@ def main():
 	# >>> Aqui começa nossa história <<<
 	print("Inicializando Caminhos do Vilarejo...!")
 	print("Vilarejo pronto para receber o jogador...!")
+	# Teste de alteração para commit
+	print("Começando o jogo")
   
 	response = ai.send_message(
 		"""Você chega ao Vilarejo ao cair da tarde. As ruas estão movimentadas, \
